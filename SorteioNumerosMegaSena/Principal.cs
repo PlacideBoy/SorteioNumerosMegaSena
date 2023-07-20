@@ -49,5 +49,9 @@ namespace SorteioNumerosMegaSena
 
         }
 
+        private void lblResultado_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -45,11 +45,12 @@
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(357, 232);
+            this.lblResultado.Location = new System.Drawing.Point(337, 233);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(25, 13);
             this.lblResultado.TabIndex = 1;
             this.lblResultado.Text = "......";
+            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
             // FrmMegaSena
             // 
