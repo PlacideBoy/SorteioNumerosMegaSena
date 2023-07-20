@@ -1,0 +1,11 @@
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\bin\Debug\SorteioNumerosMegaSena.exe.config
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\bin\Debug\SorteioNumerosMegaSena.exe
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\bin\Debug\SorteioNumerosMegaSena.pdb
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\obj\Debug\SorteioNumerosMegaSena.csproj.AssemblyReference.cache
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\obj\Debug\SorteioNumerosMegaSena.csproj.SuggestedBindingRedirects.cache
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\obj\Debug\SorteioNumerosMegaSena.FrmMegaSena.resources
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\obj\Debug\SorteioNumerosMegaSena.Properties.Resources.resources
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\obj\Debug\SorteioNumerosMegaSena.csproj.GenerateResource.cache
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\obj\Debug\SorteioNumerosMegaSena.csproj.CoreCompileInputs.cache
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\obj\Debug\SorteioNumerosMegaSena.exe
+D:\Apps C#\SorteioNumerosMegaSena\SorteioNumerosMegaSena\obj\Debug\SorteioNumerosMegaSena.pdb
